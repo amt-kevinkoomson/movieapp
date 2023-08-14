@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Movie" ALTER COLUMN "views" SET DEFAULT 0,
+ALTER COLUMN "saves" SET DEFAULT 0;
